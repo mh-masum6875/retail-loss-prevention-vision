@@ -1,7 +1,9 @@
 # Retail Loss Prevention Vision
 
-[![Vision Transformer](https://img.shields.io/badge/Architecture-Vision%20Transformer%20(ViT)-76B900)](https://github.com/mh-masum6875/smart-retail-loss-prevention-ai)
-[![Action Recognition](https://img.shields.io/badge/Task-Action%20Recognition-orange)](https://github.com/mh-masum6875/smart-retail-loss-prevention-ai)
+Part of my [applied computer vision portfolio](https://github.com/mh-masum6875/enterprise-computer-vision-solutions).
+
+[![Vision Transformer](https://img.shields.io/badge/Architecture-Vision%20Transformer%20(ViT)-76B900)](https://github.com/mh-masum6875/retail-loss-prevention-vision)
+[![Action Recognition](https://img.shields.io/badge/Task-Action%20Recognition-orange)](https://github.com/mh-masum6875/retail-loss-prevention-vision)
 [![YOLOv8 Pose](https://img.shields.io/badge/Pose-YOLO--Pose-00FFFF)](https://ultralytics.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -53,8 +55,8 @@ graph TD
 ## Quickstart
 
 ```bash
-git clone https://github.com/mh-masum6875/smart-retail-loss-prevention-ai.git
-cd smart-retail-loss-prevention-ai
+git clone https://github.com/mh-masum6875/retail-loss-prevention-vision.git
+cd retail-loss-prevention-vision
 pip install -r requirements.txt
 
 # Run Self-Checkout Tracker Demo
